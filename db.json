@@ -25,5 +25,8 @@
         "rating": "4",
     },
   ]
+  "profile": {
+    "name": "typicode"
+  }
  
 }
