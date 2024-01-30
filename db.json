@@ -1,11 +1,29 @@
 {
   "posts": [
+   {
+        'id': 1,
+        'title': 'Apple iPhone 15 (Blue, 128 GB)',
+        'description': 'Experience the iPhone 15 – your dynamic companion. Dynamic Island ensures you stay connected, bubbling up alerts seamlessly while you are busy. Its durable design features infused glass and aerospace-grade aluminum, making it dependable and resistant to water and dust.',
+        'thumbnail': 'https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg',
+        'price': '65999',
+        'rating': '5',
+    },
     {
-      "id": 1,
-      "title": "hello"
-    }
+        'id': 2,
+        'title': 'SAMSUNG Galaxy F04 (Opal Green, 64 GB)  (4 GB RAM)',
+        'description': 'With the stunning features of the Samsung Galaxy F04 smartphone, discover what it means to have a flawless user experience. This smartphone\'s astonishing 8 GB of RAM makes multitasking a snap.',
+        'thumbnail': 'https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/g/p/2/-original-imaguechhujc7ujh.jpeg',
+        'price': '7999',
+        'rating': '4',
+    },
+    {
+        'id': 3,
+        'title': 'RM HOME Leatherette 3 Seater Sofa',
+        'description': 'Introducing the RM HOME Leatherette 3 Seater Sofa – a pinnacle of luxury and craftsmanship that transforms your living space into a realm of opulence.',
+        'thumbnail': 'https://rukminim2.flixcart.com/image/416/416/kpbipow0/sofa-sectional/6/j/p/right-facing-black-synthetic-rm009-rm-home-black-original-imag3kszckafumfg.jpeg',
+        'price': '9161',
+        'rating': '4',
+    },
   ],
-  "profile": {
-    "name": "typicode"
-  }
+ 
 }
